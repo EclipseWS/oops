@@ -1,0 +1,14 @@
+title:
+  "viaCDN"
+  
+description:
+  "αlpha"
+
+github:
+  "viacdn"
+
+theme:
+  jekyll-theme-cayman
+
+permalink:
+  pretty
